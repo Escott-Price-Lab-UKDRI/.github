@@ -8,7 +8,7 @@
 📍 **MRC Centre for Neuropsychiatric Genetics and Genomics, Cardiff University**  
 📍 Hadyn Ellis Building, 52 Maindy Road, Cardiff, CF24 4HQ  
 
-We develop computational and statistical methods to study the genetic architecture of neurodegenerative and psychiatric disorders. By integrating **large-scale genomic data and electronic health records**, we investigate genetic risk factors, improve disease risk prediction, and help untangle the molecular mechanisms impacting dementia. We also lead the **[UK DRI Human Data Mining Hub]([https://www.ukdri.ac.uk/](https://www.ukdri.ac.uk/news-and-events/human-data-mining-can-transform-our-search-neurodegeneration-treatments))**, which connects population-scale health data with experimental and clinical research to accelerate discoveries in neurodegenerative disease.
+We develop computational and statistical methods to study the genetic architecture of neurodegenerative and psychiatric disorders. By leveraging **large-scale genomic data and electronic health records**, we investigate genetic risk factors, improve disease risk prediction, and help untangle the molecular mechanisms impacting dementia. We also lead the **[UK DRI Human Data Mining Hub](https://www.ukdri.ac.uk/news-and-events/human-data-mining-can-transform-our-search-neurodegeneration-treatments)**, which brings together wet-lab and dry-lab scientists and uses population-scale health data to support and inform research into neurodegenerative disease.
 
 ---
 
